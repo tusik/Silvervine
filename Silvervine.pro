@@ -3,7 +3,8 @@ VERSION = 0.0.1
 DESTDIR = ../bin
 
 SUBDIRS += \
-    Silvervine
+    Silvervine \
+    qml
 Silvervine.file = src/Silvervine.pro
 
 CONFIG += ordered
